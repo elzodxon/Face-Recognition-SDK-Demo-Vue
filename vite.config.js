@@ -7,13 +7,5 @@ import { viteExternalsPlugin } from 'vite-plugin-externals'
 export default defineConfig({
   plugins: [
       vue(),
-      viteExternalsPlugin({
-      'onnxruntime-web': 'ort'
-    })
   ],
-  optimizeDeps: {
-    exclude: [
-      'onnxruntime-web'
-    ]
-  },
 })

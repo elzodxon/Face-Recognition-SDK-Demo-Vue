@@ -52,7 +52,7 @@
 </template>
 <script>
 import imageList from "./imageList.vue";
-import * as faceSDK from "face-recognition-plugin";
+import * as faceSDK from "faceplugin";
 
 export default {
   data() {
