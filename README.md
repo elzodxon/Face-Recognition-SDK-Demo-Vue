@@ -12,7 +12,7 @@ npm i
 node post-install.js
 ```
 
-### Execute the react app
+### Execute the vue app
 ```
 npm run dev
 ```
