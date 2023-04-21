@@ -1,7 +1,7 @@
 # Face-Recognition-SDK-Demo-Vue
 
 ```
-npm install face-recognition-plugin
+npm install faceplugin
 node post-install.js
 npm run dev
 ```
